@@ -1,13 +1,8 @@
-# cookie_cutter
-default project repository template for future CF DS team
+# Covid Spikes
 
-## How to use a template
+A repo to test for COVID spikes in local areas
 
-## How to set up the repo
 
-## Setting up Github actions
-
-## Set up tests
 
 ## Set up style checker
 
